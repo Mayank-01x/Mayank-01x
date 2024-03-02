@@ -48,7 +48,7 @@
  <img align="right" width="350" src="/assets/Coder.gif" alt="Coding gif" />
   
  ✌️ &emsp; Tech enthusiast passionate about coding, AI, and emerging technologies. <br/><br/>
- ❤️ &emsp; Dedicated to innovation, problem-solving, and pushing the boundaries of what's possible.<br/><br/>
+ ❤️ &emsp; Always exploring new technologies & seeking innovative solutions.<br/><br/>
  📧 &emsp; Let's embark on this exciting journey together and shape the future of tech!<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/Mayank-01x/Mayank-01x/issues)
 
