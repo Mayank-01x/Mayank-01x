@@ -1,12 +1,12 @@
 
 <h2 align="center">
-  Welcome to My World!
+  Welcome to My Profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
 
 
 <p align="center">
-  <a href="https://github.com/Mayank-01x"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20Developer;Always%20learning%20new%20things.;A,I%20Enthusiast!;Code%20Lover!;Tech%20Explorer...&center=true&width=380&height=45"></a>
+  <a href="https://www.mquare.in><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20Developer;Always%20learning%20new%20things.;A.I%20Enthusiast!;Code%20Lover!;Tech%20Explorer...&center=true&width=380&height=45"></a>
 </p>
 
 <a href="https://komarev.com/ghpvc/?username=Mayank-01x">
@@ -16,7 +16,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://Mayank-01x.com">Mayank Aggarwal</a></b>
+                <b><a target="_blank" href="https://www.mquare.in">Mayank Aggarwal</a></b>
         </samp>
 </h3>
 
