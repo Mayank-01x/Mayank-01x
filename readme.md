@@ -75,6 +75,7 @@
   </a>
  
 </div>
+
 <br/>
 
 <p align="left">
@@ -82,6 +83,13 @@
 </p>
 
 <br/>
+<!-- Holopin Badges -->
+<h2 align="center">My Holopin Badges</h2>
+<p align="center">
+  <a href="https://holopin.io/@mayank01x">
+    <img src="https://holopin.me/mayank01x" alt="Holopin Badges" />
+  </a>
+</p>
 <hr/>
 <br/>
 
