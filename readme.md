@@ -86,11 +86,6 @@
 
 <br/>
 
-<p align="center">
-  <a href="https://github.com/Mayank-01x">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mayank-01x&theme=radical&border=7F3FBF&background=0D1117" alt="Mayank's GitHub streak"/>
-  </a>
-</p>
 
 <p align="center">
   <a href="https://github.com/Mayank-01x">
