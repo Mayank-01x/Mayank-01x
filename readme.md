@@ -7,10 +7,6 @@
   <a><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20Developer;Always%20learning%20new%20things.;A.I%20Enthusiast!;Code%20Lover!;Tech%20Explorer...&center=true&width=380&height=45"></a>
 </p>
 
-<a href="https://komarev.com/ghpvc/?username=Mayank-01x">
-  <img align="right" src="https://komarev.com/ghpvc/?username=Mayank-01x&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
-</a>
-
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
@@ -105,6 +101,5 @@
   <br/>
 </a>
 
-![Mayank Aggarwal's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mayank-01x&custom_title=Mayank%20Aggarwal's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 [![An image of @mayank01x's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mayank01x)](https://holopin.io/@mayank01x)
